@@ -3,7 +3,8 @@
 
 int main(void)
 {
-	printf("upload code.c\n");
+	printf("111\n");
+	printf("222\n");
 	return 0;
 }
 
